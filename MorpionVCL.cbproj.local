@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/11/14 19:10:44.000.086,=C:\Users\pierr\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2020/11/14 19:10:44.000.421,=C:\Users\pierr\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2020/11/14 19:11:06.000.169,C:\Users\pierr\Desktop\Git\MorpionVCL\Unit1.cpp=C:\Users\pierr\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2020/11/14 19:11:06.000.169,C:\Users\pierr\Desktop\Git\MorpionVCL\Unit1.h=C:\Users\pierr\Documents\Embarcadero\Studio\Projets\Unit1.h</Transaction>
+    <Transaction>2020/11/14 19:11:06.000.169,C:\Users\pierr\Desktop\Git\MorpionVCL\Unit1.dfm=C:\Users\pierr\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
+    <Transaction>2020/11/14 19:11:09.000.325,C:\Users\pierr\Desktop\Git\MorpionVCL\Project1PCH1.h=C:\Users\pierr\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2020/11/14 19:11:11.000.802,C:\Users\pierr\Desktop\Git\MorpionVCL\Project1.cbproj=C:\Users\pierr\Documents\Embarcadero\Studio\Projets\Project1.cbproj</Transaction>
+    <Transaction>2020/11/16 19:34:50.000.216,=C:\Users\pierr\Desktop\Git\MorpionVCL\Morpion.cpp</Transaction>
+    <Transaction>2020/11/29 14:56:13.000.176,C:\Users\pierr\Desktop\Git\MorpionVCL\Morpion.cpp=</Transaction>
+    <Transaction>2020/11/29 15:01:54.000.341,C:\Users\pierr\Desktop\Git\MorpionVCL\Project1.cbproj=C:\Users\pierr\Desktop\Git\MorpionVCL\MorpionVCL.cbproj</Transaction>
+    <Transaction>2020/11/29 15:01:54.000.311,C:\Users\pierr\Desktop\Git\MorpionVCL\Project1PCH1.h=C:\Users\pierr\Desktop\Git\MorpionVCL\MorpionVCLPCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
